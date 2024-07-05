@@ -16,6 +16,7 @@ body {
 	margin: 100px auto 0;
 	border-radius: 10px;
 	padding: 30px;
+	line-height: 1.25;
 }
 
 .app h1 {
